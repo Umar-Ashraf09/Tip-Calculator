@@ -13,7 +13,7 @@ A simple web-based Tip Calculator to help you split the bill and calculate tips 
 
 ## Preview
 
-![Tip Calculator](https://github.com/Umar-Ashraf09/Tip-Calculator/assets/92431008/5cde196d-df17-430c-b387-22d1276fb31e)
+![Tip Calculator](https://github.com/Umar-Ashraf09/Tip-Calculator/assets/92431008/442ffa12-fd1c-49f4-a2a0-b11635ec948d)
 
 
 ## Technologies Used
